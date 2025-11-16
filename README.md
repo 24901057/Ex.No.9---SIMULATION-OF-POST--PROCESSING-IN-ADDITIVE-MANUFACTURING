@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+## Support Removal Process
+<img width="1910" height="936" alt="Screenshot 2025-11-16 122555" src="https://github.com/user-attachments/assets/5fe5098f-e6be-4836-bc90-6842047f6911" />
+
+## UV Curing of 3D printed part
+<img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/b51d7c28-8b3d-4523-beb6-9c574180f119" />
+
+## Heat Treatment of 3D printed part
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/c38a25f2-ebbe-48bb-81ce-3f8bd7e190e4" />
+
+### Name: Thejashree S
+### Register Number: 212224240175
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
